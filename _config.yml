@@ -35,7 +35,7 @@ flavor: "r"
 # Most workshops don't use extra pages. More information about extra
 # pages are included in the README:
 # https://github.com/carpentries/workshop-template#creating-extra-pages
-title: "Workshop Title"
+title: "Software Workshop"
 
 
 #------------------------------------------------------------
@@ -69,7 +69,7 @@ swc_pages: "https://swcarpentry.github.io"
 swc_site: "https://software-carpentry.org"
 template_repo: "https://github.com/carpentries/styles"
 training_site: "https://carpentries.github.io/instructor-training"
-workshop_repo: "https://github.com/carpentries/workshop-template"
+workshop_repo: "https://github.com/Data-Science-for-Scientists-ATL/2019-11-23-emory"
 workshop_site: "https://carpentries.github.io/workshop-template"
 
 # Surveys.
